@@ -2,12 +2,6 @@
 <html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     
-   
-    <link rel="stylesheet" href="./Flowers_files/style.css">
-    <link rel="icon" href="" type="image/x-icon">
-    <title>Flowers</title>
-</head>
-
 <body>
     <div class="greetings">
         <span>¡TE</span>
