@@ -13,7 +13,7 @@
     </div>
     <div class="button">
         <button class="botones">
-            <a href="" style="color: #fff;">SI O SI</a>
+            <a href="" style="color: #fff;">SI(es la unica opcion)</a>
         </button>
     </div>
 
